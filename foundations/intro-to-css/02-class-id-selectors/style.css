@@ -1,0 +1,16 @@
+.paras {
+    background-color: #eb3492;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#second {
+    font-size: 36px;
+    color: rgb(52, 52, 235);
+}
+.more {
+    font-size: 24px;
+}
+#fourth {
+    background-color: hsl(109, 67%, 60%);
+    font-size: 24px;
+    font-weight: 700;
+}
